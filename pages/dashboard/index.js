@@ -1,4 +1,4 @@
-import inputLayout from "@/input/inputLayout";
+import inputLayout from "@/components/inputLayout";
 
 export default function index() {
   return (
